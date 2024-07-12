@@ -182,7 +182,7 @@ systemd.services.lactd = {
   pkgs.git
   pkgs.libsForQt5.lightly
   pkgs.kdePackages.partitionmanager
-  
+  pkgs.lutris
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
